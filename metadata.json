@@ -1,0 +1,6 @@
+{
+  "name": "Khmer Audio Pro",
+  "description": "Professional Khmer audio transcription and meeting report engine for PPWSA.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
